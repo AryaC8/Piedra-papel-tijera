@@ -1,4 +1,4 @@
-## Carrera ##
+## Piedra-Papel-Tijera ##
 
 Aplicación para jugar a piedra-papel-tijera contra la máquina.  
 Para realizar esta aplicación se han utilizado las siguientes herramientas:
