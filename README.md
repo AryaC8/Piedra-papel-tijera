@@ -8,11 +8,11 @@ Para realizar esta aplicación se han utilizado las siguientes herramientas:
 ### Muestra ###
 
 Se escribe el nombre del/a jugador/a y las partidas que se quieran jugar (el nombre no puede comenzare con un número).    
-![Inicio de la carrera](/imgReadme/2partidas.png)   
+![Inicio de la partida](/imgReadme/2partidas.png)   
 
 Una vez jugadas las partidas seleccionadas, se puede volver a jugar o resetear para que el historial de partidas comience otra vez.  
-![Salida de la carrera](/imgReadme/5partidas.png)   
+![Partidas](/imgReadme/5partidas.png)   
 
 Final de las partidas jugadas.  
-![Carrera](/imgReadme/final.png)    
+![Fianl partidas](/imgReadme/final.png)    
 
